@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @shravani-hiregowda
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on web projects
+- 📫 How to reach me - shravani.hiregowda9@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I can spend hours debugging code but still get excited when it finally works!!
